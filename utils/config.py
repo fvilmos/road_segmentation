@@ -7,8 +7,8 @@ https://github.com/fvilmos
 USE_GPU = 1
 
 # image strored
-IMG_W,IMG_H = (320,240)
-NET_SHAPE=(320,240)
+IMG_W,IMG_H = (160,120)
+NET_SHAPE=(160,20)
 IMG_CHANNELS = 3
 
 # trained model

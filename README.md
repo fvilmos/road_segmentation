@@ -3,10 +3,13 @@
 This work aims to develop a computationally small but efficient segmentation CNN to segment the road and traffic participants (vehicles + pedestrians) from the rest of the objects on the scene. The CARLA simulator [1] was used to collect the ground truth data, conisting from 3 classes. The network architecture is similar to FCN16 / 8 - architecture [2], using two skip connections.
 
 <p align="center"> 
-  <img src="info/seg1.gif" alt="" width="400"></a>
-  <img src="info/outs.jpg" alt="" width="400"></a>
+  <img src="info/seg1.gif" alt="" width="600"></a>
+
 </p>
 
+<p align="center"> 
+  <img src="info/outs.jpg" alt="" width="600"></a>
+</p>
 
 ### Data collection & traning
 
